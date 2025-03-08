@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="shallowGreen">#FF7c996e</color>
+    <color name="deepGreen">#FF283618</color>
+    <color name="vanilla">#FFfefae0</color>
+    <color name="shallowOrange">#FFdda15e</color>
+    <color name="deepOrange">#FFbc6c25</color>
+    <color name="black">#FF000000</color>
+</resources>
